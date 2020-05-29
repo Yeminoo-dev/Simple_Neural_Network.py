@@ -1,4 +1,4 @@
-###########################################Author : Ye Min Oo ( McE ) ###############################################################
+#Author : Ye Min Oo
 import numpy as np
 import matplotlib.pyplot as plt
 
